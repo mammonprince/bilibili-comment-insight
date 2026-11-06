@@ -1,0 +1,19 @@
+﻿{
+  "aid": "116165611490100",
+  "threads": [
+    {
+      "main_comment": {"comment_id": "101", "text": "我喜欢视频用具体剧情解释女性配角为什么重要。"},
+      "replies": [
+        {"comment_id": "102", "parent_id": "101", "text": "我也喜欢这个例子，希望能多讲一点她自己的成长。"}
+      ]
+    },
+    {
+      "main_comment": {"comment_id": "201", "text": "我更想看女性角色如何推动主线，希望下期能多举几个例子。"},
+      "replies": []
+    },
+    {
+      "main_comment": {"comment_id": "301", "text": "视频前半段节奏有点快，有字幕会更好跟。"},
+      "replies": []
+    }
+  ]
+}
